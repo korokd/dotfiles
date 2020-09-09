@@ -1,0 +1,13 @@
+[user]
+	name = Diogo Korok
+	email = korokd@protonmail.ch
+	signingkey = 6F06B9BB79BE57E8
+[core]
+	editor = vim
+[push]
+	default = current
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
