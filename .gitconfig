@@ -1,7 +1,7 @@
 [user]
 	name = Diogo Korok
 	email = korokd@protonmail.ch
-	signingkey = 6F06B9BB79BE57E8
+	signingkey = CA6965E8E672EBAD
 [core]
 	editor = vim
 [push]
