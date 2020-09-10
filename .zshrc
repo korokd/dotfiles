@@ -113,7 +113,7 @@ eval $(thefuck --alias)
 export PATH=~/.npm-global/bin:$PATH
 
 # Use custom vim
-alias vim='/usr/local/Cellar/vim/8.2.1500/bin/vim'
+alias vim='/usr/local/Cellar/vim/8.2.1600/bin/vim'
 
 # ASDF version management
 . /usr/local/opt/asdf/asdf.sh
