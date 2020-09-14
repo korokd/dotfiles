@@ -4,6 +4,7 @@
 	signingkey = CA6965E8E672EBAD
 [core]
 	editor = vim
+	excludesFile = ~/.gitignore
 [push]
 	default = current
 [filter "lfs"]
