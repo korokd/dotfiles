@@ -1,2 +1,5 @@
 # Vim swap files
 *.swp
+
+# Webpack dev config (to stop opening new browser tab on every reload)
+webpack.dev.js
